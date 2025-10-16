@@ -1,4 +1,4 @@
-import React from 'react';
+i
 import MaintenanceTrackerApp from './MaintenanceTrackerApp.tsx';
 
 export default function App() {
